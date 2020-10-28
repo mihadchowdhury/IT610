@@ -1,0 +1,11 @@
+Once pull is complete run the below command
+>docker-compose up
+
+this will have the container running
+once the server is up, go to 'localhost:8080'
+use the following info:
+System: MYSQL
+Server: db
+Username: root
+Password: it610
+Batabase: mysql
